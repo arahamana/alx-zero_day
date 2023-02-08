@@ -1,8 +1,0 @@
-#!/bin/bash
-echo "ALX"
-__EOF__
-
-#!/bin/bash
-echo "ALX" 
-__EOF__
-:q
